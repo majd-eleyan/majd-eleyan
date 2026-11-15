@@ -78,7 +78,6 @@ I'm **Majd**, an **AI Engineer** who builds practical AI systems: **Retrieval-Au
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=majd-eleyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2f81f7&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majd-eleyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
 
 <br/>
 
